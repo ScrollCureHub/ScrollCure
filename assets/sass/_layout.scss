@@ -57,9 +57,11 @@
   justify-content: space-between;
   flex-direction: row;
   align-items: center;
+  line-height: normal;
 
   &:not(:first-child) {
     border-top: 2px solid $light;
+    padding-block; 10px;
   }
 
   .post-item-date {
