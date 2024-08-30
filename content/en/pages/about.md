@@ -34,5 +34,5 @@ Thank you.
 
 If you'd like to speak with me you can reach out on hi@scrollcure.com
 
-If you'd like to seek help for digital addiction, I offer 1-on-1 counselling. You can read more about it [here]()
+If you'd like to seek help for digital addiction, I offer 1-on-1 counselling. You can read more about it [here](https://scrollcure.com/pages/seek-help)
 
