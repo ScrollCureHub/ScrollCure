@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://scrollcurehub.github.io/scrollcure/'
 languageCode = 'en-us'
 title = 'ScrollCure'
 theme = 'hugo-blog-awesome'
