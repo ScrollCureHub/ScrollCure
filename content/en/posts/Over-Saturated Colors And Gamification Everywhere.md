@@ -17,7 +17,7 @@ Or gamified goalposts set up as milestone for you to accomplish: “You”re 32 
 
 All this hoo haa motivation & the only thing these platforms care about is how much time you spend on their device & how often they can get you to click on their advertisements so as to fill their pockets.
 
-They want to set up emotional feedback loop & positivity hooks just like a videogames do where upon completing a mission or a task you get awarded with game resources, victory music & bright visuals.
+They want to set up emotional feedback loop & positivity hooks just like videogames do where upon completing a mission or a task you get awarded with game resources, victory music & bright visuals.
 
 Ofcourse most of us realize these prompts are silly & stupid but the dopamine & serotonin being released inside our mind does not. When you’ve had an uneventful day and the only positive thing to happen is your Instagram post getting a few dozen likes and a bright red bubble on your message icon, it stops being a silly joke & just some animations because now you’ve developed an emotional hook to it. Next thing you know, you’ve re-opened your app multiple times in quick succession to see if you’ve gained new likes or received a new message, looking to get the next *hit* of that positive feel-good design elements.
 
