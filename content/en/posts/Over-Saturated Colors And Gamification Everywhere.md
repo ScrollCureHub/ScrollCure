@@ -7,7 +7,7 @@ author = 'ScrollCure'
 
 Opening an app today feels like stepping into a fantasy videogame world. The designers seemed to have picked the colors looking at animated stickers on a 1st grader’s tiffin box or designed the app sitting inside a toy store.
 
-Bright pinks, bright yellows, bright reds & over-saturated hues everywhere. It looks like they are tring to emulate slot machines or videogames with their bright, saturated, tempting colors. Our everyday mundane apps are not designed for play. Yet day by day they are becoming brighter, shinier & more-childlike. 
+Bright pinks, bright yellows, bright reds & over-saturated hues everywhere. It looks like they are trying to emulate slot machines or videogames with their bright, saturated, tempting colors. Our everyday mundane apps are not designed for play. Yet they are becoming brighter, shinier & more-childlike overtime. 
 
 What used to be colors present only in games like Farmville & Candy Crush are now present everywhere. This is besides user-submitted media & pictures too which are getting more & more saturated, brightened and edited over time. Skies which look bluer than real skies, whites which look whiter than milk and skin tones which are 3 or 4 shades brighter and fairer than true shades.
 
