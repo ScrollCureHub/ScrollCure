@@ -12,7 +12,7 @@ author = 'ScrollCure'
 > I wanted to explain to him that you can see a brown oak leaf literally anywhere in the Eastern United States in November, that nothing in the forest was less interesting. But after watching him look at it, I began to look as well, and 
 > soon I realized it wasn't just a brown leaf. Its veins spidered out red and orange and yellow in a pattern too complex for my brain to synthesize, and the more I looked at the leaf with Henry the more I knew I was face to face with 
 > something commensurate to my capacity for wonder.
-> The magnificence of that leaf astonished me, and I was reminded that aesthetic beauty is as much about how and whether you look as what you see. From the quark to the supernova, the wonders do not cease. It is our attentiveness that is 
-> in short supply, our ability and willingness to do the work that awe requires. 
+> The magnificence of that leaf astonished me, and I was reminded that **aesthetic beauty is as much about how and whether you look as what you see. From the quark to the supernova, the wonders do not cease. It is our attentiveness that is 
+> in short supply, our ability and willingness to do the work that awe requires.** 
 
 -- ‘Capacity For Wonder And Sunsets’ from the podcast, The Anthropocene Reviewed by John Green
