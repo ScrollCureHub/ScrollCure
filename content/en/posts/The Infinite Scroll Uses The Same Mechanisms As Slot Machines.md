@@ -83,5 +83,4 @@ So it doesn’t come much of a shock that app developers, UIUX developers, data 
 
 It would be too cynical to say that all of it is done consciously in a Dr. Evil “Let me get people as addicted to this & churn out as much money as I possibly can” style but it would be too naive to deny that a lot of it is being done without the developers being completely aware of exactly what they are doing & what the consequences of the same are on individuals & the culture as a whole
 
-
-**Related Posts** : [Over-Saturated Colors And Gamification Everywhere](https://www.scrollcure.com/posts/over-saturated-colors-and-gamification-everywhere/)
+**Related Posts:** <a href="https://www.scrollcure.com/posts/over-saturated-colors-and-gamification-everywhere/" style="text-decoration: underline;">Over-Saturated Colors And Gamification Everywhere</a>
