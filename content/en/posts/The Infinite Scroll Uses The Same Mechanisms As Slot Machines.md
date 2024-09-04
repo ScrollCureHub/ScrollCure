@@ -26,18 +26,19 @@ That is Natasha Dow Schüll, author of Addicted By Design which compiles over 15
 
 ## How Infinite Scroll Uses Similar Mechanisms As Slot Machines And Causes A Similar Level Of Addiction
 
-**Infinite World:** Slot machines & videogames are infinite by nature and infinite scroll, as the name suggests, offers the same: Infinity.
+**An Infinite World:** Slot machines & videogames are infinite by nature and infinite scroll, as the name suggests, offers the same: Infinity.
 
 Try to re-collect the videogames you’ve played growing up or still play to day and you will notice that in most of them you can keep driving till infinity or keep running till infinity or keep building more stuff endlessly or keep wandering around the game till you tire out & then wander some more. 
 
 The infinity scroll achieves the same for modern websites & apps today. You keep scrolling down & down and the content never ever ends. You click on a piece of content and that too is followed by more content related to it which scrolls endlessly. You tire out from it & go to an other section of that website or an another piece of content or an another platform and again you’re confronted with the infinite. 
 
 Put the app away & open it as many times as you wish, the world you step into offers nothing less than the infinite. Until you literally fry your dopamine receptors, you are unable to put the phone down because the content by itself will not reach an end. 
+
 This is quintessentially every videogame today. They want to induce a flow state of mind & have you chase infinity.
 
 **Pinball On A Neural Level:** The manner in which you access content on an infinite scroll platform lights up your brain like a pinball machine on a neural level due to the sheer variety & combination in the content presented to you in quick succession. 
 
-One moment you are watching a video of a cat caressing a new born baby which light up the parts of your brain related to feeling pleasant & wholesome in your brain, the very next second you are viewing someone falling off a bike, triggering a feeling of worry, concern, anxiety and death. Within seconds after that you are browsing someone partying in a luxury yacht and seconds after that a meme on an ongoing war. 
+One moment you are watching a video of a cat caressing a new born baby which lights up the parts of your brain related to feeling pleasant & wholesome in your brain, the very next second you are viewing someone falling off a bike, triggering a feeling of worry, concern, anxiety and death. Within seconds after that you are browsing someone partying in a luxury yacht and seconds after that a meme on an ongoing war. 
 
 This makes the different parts of your brain or it’s emotional centers to light up in quick succession. This is addictive, tiring and disorienting to your brain.
 
@@ -47,17 +48,15 @@ The infinite scroll achieves the same to a large degree. Your brain does not kno
 
 When this happens in quick succession, that is nano-anxiety interspersed with a strong emotion to follow after it, it is extremely addictive to the brain even at the cost of your brain feeling terrible later.
 
-**Over-saturated, bright colors everywhere:** I’ve covered this topic before. While the short-form platforms provide content in rapid succession, it also provides the colors just like that in a pinball machine to go along with it.
+**Over-saturated, bright colors everywhere:** I’ve covered this topic before. While the short-form platforms provide content in rapid succession, it also provides the colors just like that in a pinball machine to go along with it. Mind you these colors are also overly bright, loud, saturated and edited artificially to be as attention sucking as possible.
 
 One moment you’d be watching someone wearing a beige dress in a white-marbled home, the next moment you’re watching someone walking under blue skies & green forests and few second later, you’re watching someone driving a red mustang on gray concrete, ad infinitum. 
-
-Mind you these colors are also overly bright, loud, saturated and edited artificially to be as attention sucking as possible.
 
 **Slot Machine Like Reward Timings:** Like in the Rat-Skinner box experiment, it is not constant rewards but haphazard reward that drives the mice crazy. With infinite scroll, or digital technology in general, you never know when your positive reward will be delivered to you & in what form. You do not know when your inbox will light up with the bright red notification bubble nor do you know exactly which reel in your scroll next will make you feel joyful or will make you laugh. That anticipation & delay in-between two rewards and then finally receiving the said reward is extremely addictive to the human mind & has devastating consequences.
 
 **Crazy combinations & infinite novelty:** In a three-reel slot machine with 6 symbols, the maximum number of combinations is (6 x 6 x 6) which is 216 combination. If its a six-reel slot machine with 20 symbols, the maximum number of combinations is (20 x 20 x 20 x 20 x 20 x 20) which is 64 million.
 
-However in the case of digital content, the number of symbols are infinite and hence the total number of combinations are infinite too. Just the sheer quantity & variety of topics on which reels can be made on, the ability to creatively alter every element in it, the infinite choices of the design elements whether it be music, animations or colors, makes digital content the grandest games of slot machine ever to confront humanity.
+However in the case of digital content, the number of symbols are infinite and hence the total number of combinations are infinite too. Just the sheer quantity & variety of topics on which reels can be made on, the ability to creatively alter every element in it, the infinite choices of the design elements whether it be music, animations or colors, makes digital content the grandest game of slot machine ever to confront humanity.
 
 **Always Accompanied By Ambient Music:** Almost every piece of visual content we consume today whether it be on short-form platforms or more traditional long-form medias like shows & movies today, is overlayed with music to go along with it. Besides the fact that music is extremely stimulating, layered & addictive by itself, when it goes along with addictive visual content, it packs that much more potent a punch. Music has also gotten shorter, snappier, louder, more transient, more artificial and more manipulated over the years. This acts like a pleasant ambient noise to keep you in the hypnotic trance state of your devices and increase the magnitude of it’s hypnotic effects by a notch.
 
@@ -79,6 +78,7 @@ Casinos realized that physical discomfort in any form was directly proportional 
 With smartphones today, what’s more comfortable than lying down on your couch or bed with a blanket wrapped around you & all the snacks available at your fingertips. It a level of comfort that even casinos would be jealous of. Both your mind & your body hate breaking it’s homeostasis. More so when it is being hyper-stimulated. This is precisely why few minutes of scrolling turns into a few hours of scrolling so easily.
 
 **Conclusion**
+
 So it doesn’t come much of a shock that app developers, UIUX developers, data scientists and tech engineers today are tapping into & imbibing into their designs the same tactics & the same exploits of human psychology used by slot machine developers & designers. 
 
 It would be too cynical to say that all of it is done consciously in a Dr. Evil “Let me get people as addicted to this & churn out as much money as I possibly can” style but it would be too naive to deny that a lot of it is being done without the developers being completely aware of exactly what they are doing & what the consequences of the same are on individuals & the culture as a whole
