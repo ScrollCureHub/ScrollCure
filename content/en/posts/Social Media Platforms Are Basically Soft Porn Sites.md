@@ -1,7 +1,7 @@
 +++
 title = 'Social Media Platforms Are Basically Soft Porn Sites'
 draft = false
-date = 2024-09-03
+date = 2024-09-04
 author = 'ScrollCure'
 +++
 
@@ -17,9 +17,9 @@ You’ll also notice that the personalities on these visual-first platforms are 
 
 And these attractive personalities will then go further to accentuate the good parts of their already good looks either by picking particular angles in which they are aware they look good or by picking certain lighting or outfits which have garnered appreciation before. Or they’ll pick the second more common method, by dressing more & more provocatively and designing content with  increasing sexual undertones. 
 
-Entire genres with tens of thousands of content creators have been formed & centered around direct & indirect selling of sex. Provocative dancing, doing everyday tasks almost naked, working out in scanty clothing or trends like GRWM (stands for Get Ready With Me where a good-looking model or the ‘influencer’ will showcase themselves in different attires but first will strip down to the bare-minimum that is allowed by the platform to not have the content flagged for complete nudity and will then further titillate the audience with their charm & moves once completely dressed.
+Entire genres with tens of thousands of content creators have been formed & centered around direct & indirect selling of sex. Provocative dancing, doing everyday tasks almost naked, working out in scanty clothing or trends like GRWM (stands for Get Ready With Me where a good-looking model or the ‘influencer’ will showcase themselves in different attires but first will strip down to the bare-minimum that is allowed by the platform to not have the content flagged for complete nudity and will then further titillate the audience with their charm & moves once completely dressed.)
 
-Alongside obvious soft-porn, there are derivatives of it like meme pages dedicated to adult content, folks who’ve built their entire brand & personality around talking about sex, pages that just post couple & intimacy content, pages & personalities that double as a fitness coach but post a high amount of almost naked body pictures, ad infinitum.
+Alongside obvious soft-porn, there are derivatives of it like meme pages dedicated to adult content, folks who’ve built their entire brand & personality around talking about sex, pages that just post couple & intimacy content, pages & personalities that double as a "fitness coach" but post a high amount of almost naked body pictures, ad infinitum.
 
 Sex is one of the core human drives & desires. Some philosophers & forefathers of psychology believe it is THE desire acting as one of the greatest motivators behind human behavior & human development. So needless to say, this titillating sexual imagery strategy to gain attention definitely works.
 
