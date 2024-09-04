@@ -5,7 +5,7 @@ date = 2024-09-03
 author = 'ScrollCure'
 +++
 
-Videogames & slot machine are two of the most addicting digital inventions out there. Inducing a flow state of mind paralleled by no other digital invention to-date. Instagram & Tiktok come close to it and are getting closer with each day but despite being as addicting as they are, are still leagues behind the level of addiction that videogames & slot machines ensure. 
+Videogames & slot machines are two of the most addicting digital inventions out there. Inducing a flow state of mind paralleled by no other digital invention to-date. Instagram & Tiktok come close to it and are getting closer with each day but despite being as addicting as they are, are still leagues behind the level of addiction that videogames & slot machines ensure. 
 
 **At 20%, slot machine addicts also have the highest rate of suicide attempts among all other addictions.** (Zangeneh and Hason 2006, 191-93)
 
@@ -24,7 +24,7 @@ That is Natasha Dow Schüll, author of Addicted By Design which compiles over 15
 > or a round of video poker, right? And if they happen so rapidly, one to the next, sometimes 1,200 hands an hour on the latest penny machines, you, again, not only are you not making choices to 
 > continue, it's almost like you feel like your body is continuing”*
 
-**How Infinite Scroll Causes A Similar Effect To Slot Machines**
+## How Infinite Scroll Uses Similar Mechanisms As Slot Machines And Causes A Similar Level Of Addiction
 
 **Infinite World:** Slot machines & videogames are infinite by nature and infinite scroll, as the name suggests, offers the same: Infinity.
 
