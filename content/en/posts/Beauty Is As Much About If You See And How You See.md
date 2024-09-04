@@ -15,6 +15,6 @@ author = 'ScrollCure'
 > The magnificence of that leaf astonished me, and I was reminded that aesthetic beauty is as much about how and whether you look as what you see. From the quark to the supernova, the wonders do not cease. It is our attentiveness that is 
 > in short supply, our ability and willingness to do the work that awe requires. 
 
-- ‘Capacity For Wonder And Sunsets’ from the podcast, The Anthropocene Reviewed by John Green
+  - ‘Capacity For Wonder And Sunsets’ from the podcast, The Anthropocene Reviewed by John Green
 
 (One of the best podcast I've ever listened to & one of the best episode from it. Would wholeheartedly recommend giving it a listen)
