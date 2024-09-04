@@ -16,5 +16,3 @@ author = 'ScrollCure'
 > in short supply, our ability and willingness to do the work that awe requires. 
 
 -- ‘Capacity For Wonder And Sunsets’ from the podcast, The Anthropocene Reviewed by John Green
-
-(One of the best podcast I've ever listened to & one of the best episode from it. Would wholeheartedly recommend giving it a listen)
