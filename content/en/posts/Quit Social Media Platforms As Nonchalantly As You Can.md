@@ -48,6 +48,6 @@ Next time you decide to quit, just do it in the most nonchalant way. Don’t tel
 
 Instead just delete your profiles & treat it like a skill that you’re learning. Expect to fail & rise over time, repeatedly. Set the goal to be more mindful over-time. Trust me, you will have your moment of fame when you adhere to digital minimalism.
 
-When your close friends or people that actually matter ask you why they cannot see you online or when you tell someone to send a screenshot of a social media post instead of the link they sent to you, they will inadvertently be curious and you will end up telling them why and their reaction will be that much more pronounced, louder and rewarding.
+When your close friends or people that actually matter ask you why they cannot see you online, when you joyfully find yourself unaware of the latest celebrity gossip or when you tell someone to send a screenshot of a social media post instead of the link they sent, they will inadvertently be curious and you will end up telling them why and their reaction will be that much more pronounced, louder and rewarding.
 
 **Related Posts:** <a href="https://www.scrollcure.com/posts/a-simple-mindfulness-barrier-that-has-drastically-reduced-my-desktop-usage/" style="text-decoration:underline">A Simple Mindfulness Barrier That Has Drastically Reduced My Desktop Usage</a>
