@@ -32,7 +32,7 @@ author = 'ScrollCure'
 > 
 > One woman responded in a more diagnostic register, cataloging symptoms and their correlating physiological explanations:
 > 
-> The symptoms you describe—lightheadedness, nausea—after being at the casino for prolonged period of times are related to a combination of one or more of the following: no food, no sleep, too much caffeine, improper elimination, sitting too long,  overstimulation (bells, lights) and the emotional upheaval of winning/losing. Interestingly, female compulsive gamblers often suffer from repeated bladder infections and yeast or bacterial infections (too much sitting, too little water, not urinating).
+> *The symptoms you describe—lightheadedness, nausea—after being at the casino for prolonged period of times are related to a combination of one or more of the following: no food, no sleep, too much caffeine, improper elimination, sitting too long,  overstimulation (bells, lights) and the emotional upheaval of winning/losing. Interestingly, female compulsive gamblers often suffer from repeated bladder infections and yeast or bacterial infections (too much sitting, too little water, not urinating).*
 > 
 > Yet these clinical speculations, like the preceding responses, failed to address the heart of Darlene’s query. She persisted:
 > 
@@ -55,3 +55,7 @@ author = 'ScrollCure'
 > The post on intermittent reinforcement not only satisfied Darlene but went on to spark a cascade of behaviorist-inflected sentiments that had not previously found expression in the forum. Over the next weeks, rats repeatedly reared their heads. *“When I gamble I feel like a rat in a trap,”* commented a gambler. *“Yes, I feel like a Rat Person, coming out of my dark hole to surface when the money is all gone,” said another. Rats—along with carrier pigeons, rhesus monkeys, and Pavlov’s salivating dogs—made continued guest appearances in gamblers’ posts. “I’m sure to be the first one in line to hit the lever to see what my prize is,”* one man wrote. 
 
 -- Referenced from the book Addicted By Design, Natasha Dow Schüll
+
+**Related Posts:** <a href="https://www.scrollcure.com/posts/over-saturated-colors-and-gamification-everywhere/" style="text-decoration: underline;">Over-Saturated Colors And Gamification Everywhere</a>
+
+<a href="https://www.scrollcure.com/posts/the-infinite-scroll-uses-the-same-mechanisms-as-slot-machines/" style="text-decoration: underline;">The Infinite Scroll Uses The Same Mechanisms As Slot Machines</a>
