@@ -59,4 +59,5 @@ author = 'ScrollCure'
 **Related Posts:** 
 
 <a href="https://www.scrollcure.com/posts/over-saturated-colors-and-gamification-everywhere/" style="text-decoration: underline;">Over-Saturated Colors And Gamification Everywhere</a>
+
 <a href="https://www.scrollcure.com/posts/the-infinite-scroll-uses-the-same-mechanisms-as-slot-machines/" style="text-decoration: underline;">The Infinite Scroll Uses The Same Mechanisms As Slot Machines</a>
