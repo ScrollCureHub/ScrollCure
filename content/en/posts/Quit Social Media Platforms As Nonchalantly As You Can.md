@@ -16,7 +16,7 @@ i. The problem with using the same method for digital addiction is that unlike o
 
 When you post online that you’re about to quit a certain platform, friends will tell you they’ll miss you and send you emojis. Strangers will tell you how brave you are for taking this decision and how they need to follow your path soon. 
 
-The messages will be overwhelmingly positive and it would be the most traction you will have received for something you’ve posted in a long time. 
+The messages will be overwhelmingly positive and it would be the most traction you will have received in a long time for something you’ve posted. 
 
 All those emotions will latch on to your emotional state which is already shaky & disoriented while you’re quitting the app because let’s face it, you’re quitting from a point of despair and will simultaneously cause a high first & then a strong come down. You want to avoid that.
 
