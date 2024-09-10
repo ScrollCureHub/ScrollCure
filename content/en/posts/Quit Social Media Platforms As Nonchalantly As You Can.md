@@ -34,21 +34,19 @@ Iii.  Unlike substance addictions, digital technology is something that is compl
 
 You can go go to work tomorrow without indulging in alcohol or junk food but you cannot work without replying to a bunch of emails, attending a few online meeting and answering calls i.e. without using your phone or laptop.
 
-For substances, the drug in question is physical & foreign which need to be purchased, transported, deposited or sanctified in your home. For digital addictions, the drug is on you every given moment of the day & the Internet is ethereal and omnipresent. 
+For substances, the drug in question is physical & foreign which need to be purchased, transported, deposited or sanctified in your home. For digital addictions, *the drug* is on you every given moment of the day & the Internet is ethereal and omnipresent. 
 
-Unlike substance addictions where the act of indulgence is more physical and conscientious where you feel an urge & act upon it, in the case of digital addictions, it takes a single, unconscious touch, scroll or swipe to stray & relapse.
+Unlike substance addictions where the act of indulgence is more physical and conscious where you feel an urge & act upon it, even if it's against your desire to, in the case of digital addictions, it takes a single, unconscious touch, scroll or swipe to stray & relapse.
 
 This makes digital addiction a different specie of addiction altogether with it’s different interventions & remedies.
 
-The chances that you’ll fail or relapse in digital addiction is higher in digital addictions and you do not want to create a habit of failing on your social declarations because over time you will become apathetic to this method of intervention. 
-
-Neither do you want to lie and secretly continue to use the apps and have it weigh on your conscience.
+The chances that you’ll fail or relapse in digital addiction is higher in digital addictions and you do not want to create a habit of failing on your social declarations because over time you will become apathetic to this method of intervention. Neither do you want to lie and secretly continue to use the apps and have it weigh on your conscience.
 
 ---
 
-So next time you decide to quit, just do it in the most nonchalant way. Don’t tell your friends, don’t make a post, don’t make a declaration of your endeavors, don’t message anyone. Shut that voice in you head that is daydreaming of the mental imagery of looking back at things cinematically & reminiscing on them.
+Next time you decide to quit, just do it in the most nonchalant way. Don’t tell your friends, don’t make a post, don’t make a declaration, don’t message anyone. Shut that voice in you head that is daydreaming of the mental imagery of looking at things cinematically.
 
-Instead delete your profiles & treat it like a skill that you’re learning. Expect to fail & rise over time, repeatedly. Set the goal to get better. Trust me, you will have your moment of fame when you adhere to digital minimalism.
+Instead just delete your profiles & treat it like a skill that you’re learning. Expect to fail & rise over time, repeatedly. Set the goal to be more mindful over-time. Trust me, you will have your moment of fame when you adhere to digital minimalism.
 
 When your close friends or people that actually matter ask you why they cannot see you online or when you tell someone to send a screenshot of something instead of a social media, they will inadvertently be curious and you will end up telling them why and their reaction will be that much more pronounced, louder and rewarding.
 
