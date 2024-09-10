@@ -18,7 +18,7 @@ When you post online that you’re about to quit a certain platform, friends wil
 
 The messages will be overwhelmingly positive and it would be the most traction you will have received in a long time for something you’ve posted. 
 
-All those emotions will latch on to your emotional state which is already shaky & disoriented while you’re quitting the app because let’s face it, you’re quitting from a point of despair and will simultaneously cause a high first & then a strong come down. You want to avoid that.
+All those emotions will latch on to your emotional state which is already shaky & disoriented while you’re quitting the app because let’s face it, you’re quitting from a point of despair and will simultaneously cause a high first & followed by a subsequent *come down*. You want to avoid that.
 
  To explain it in an analogy, it would be like trying to quit alcohol by going on a weekend bender.
 
