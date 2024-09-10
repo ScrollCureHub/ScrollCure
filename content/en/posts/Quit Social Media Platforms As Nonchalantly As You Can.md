@@ -12,7 +12,7 @@ I get where the idea comes from. Most people believe making a public declaration
 
 It a mechanism based on shame & guilt, where it would be too shameful for you to break from a social vow you’ve committed to even if it is a bunch of strangers online that you’ve never met or never will meet ever. You’d feel guilty on a personal level & even more guilty telling your close ones that you broke a promise you made. 
 
-i. The problem with using the same method for digital addiction is that unlike other addictions where you’re intervening a substance addiction with a social mechanism, in the case of digital addictions, the addiction & the intervention are one and the same. 
+i. The problem with using the same method for digital addiction is that unlike other addictions where you’re intervening a substance addiction with a social mechanism, in the case of digital addictions, the cause of the addiction & the medium used for the intervention are one and the same. 
 
 When you post online that you’re about to quit a certain platform, friends will tell you they’ll miss you and send you emojis. Strangers will tell you how brave you are for taking this decision and how they need to follow your path soon. 
 
