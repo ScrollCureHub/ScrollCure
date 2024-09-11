@@ -12,15 +12,15 @@ I get where the idea comes from. Most people believe making a public declaration
 
 It a mechanism based on shame & guilt, where it would be too shameful for you to break from a social vow you’ve committed to even if it is a bunch of strangers online that you’ve never met or never will meet ever. You’d feel guilty on a personal level & even more guilty telling your close ones that you broke a promise you made. 
 
-i. The problem with using the same method for digital addiction is that unlike other addictions where you’re intervening a substance addiction with a social mechanism, in the case of digital addictions, the cause of the addiction & the medium used for the intervention are one and the same. 
+i. The problem with using the same method for digital addiction is that unlike other addictions where you’re intervening a *substance* addiction with a *social* mechanism, in the case of digital addictions, the cause of the addiction & the medium of intervention are one and the same. 
 
 When you post online that you’re about to quit a certain platform, friends will tell you they’ll miss you and send you emojis. Strangers will tell you how brave you are for taking this decision and how they need to follow your path soon. 
 
 The messages will be overwhelmingly positive and it would be the most traction you will have received in a long time for something you’ve posted. 
 
-All those emotions will latch on to your emotional state which is already shaky & disoriented while you’re quitting the app because let’s face it, you’re quitting from a point of despair and will simultaneously cause a high first & followed by a subsequent *come down*. You want to avoid that.
+All those emotions will latch on to your emotional state which is already shaky & disoriented while you’re quitting the app because let’s face it, you’re quitting from a point of despair. This will cause a *high* first & will be followed by a subsequent *come down*. You want to avoid that.
 
- To explain it in an analogy, it would be like trying to quit alcohol by going on a weekend bender.
+ To imagine it in an analogy, it would be like trying to quit alcohol by going on a weekend bender.
 
 ii. Messages and comments are one of the strongest hooks that keep you returning to your devices. There is a reason why the brightest red color has been assigned to messages & notifications. 
 
@@ -28,7 +28,7 @@ It is evolutionarily engraved in us to cherish & crave for social connection. It
 
 Even after deleting your apps or platforms, you’ll be wondering if someone has commented on your last post, if your post has received any up-votes, if someone has tried reaching out by messaging and you will get the urge to visit the problem platform again.
 
-The voice inside your mind will go: “I’ve quit it. One last time won’t hurt”
+The voice inside your mind will go: *“I’ve quit it. One last time won’t hurt”*
 
 Iii.  Unlike substance addictions, digital technology is something that is completely enmeshed in our work & personal lives today and something that we are reliant on for day to day functioning. 
 
