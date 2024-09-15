@@ -1,5 +1,5 @@
 +++
-title = 'Any Platform That Relies on Ads As Its Prime Source of Revenue Is Bound To Be Distractful And Will Degrade In Quality Overtime'
+title = 'Any Platform That Relies on Advertisments As Its Prime Source of Revenue Is Bound To Be Distractful'
 draft = false
 date = 2024-09-14
 author = 'ScrollCure'
